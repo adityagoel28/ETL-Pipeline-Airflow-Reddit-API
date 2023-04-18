@@ -1,0 +1,1082 @@
+,subreddit,title,selftext,upvote_ratio,ups,downs,score,created_utc,id,kind
+0,Python,Algebra Functions Graphing App - CustomTkinter,"&amp;#x200B;
+
+**Simple fun utility for graphing functions. Much simpler than online tools.** 
+
+&amp;#x200B;
+
+https://preview.redd.it/p6yy9z0t2qsa1.png?width=791&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=a69781164a9fa1e260920ea3579be1c04b165c33
+
+**View the code here...** [**Code (GitHub)**](https://github.com/GregoryNavasarkian/Algebra-App)",0.5,0,0,0,2023-04-09T02:16:17Z,12fxwr4,t3
+1,Python,Pop-It,"Hi friends , i wrote a clone of a famous toy ""Pop-It"" in tkinter... i just wanted to share here.. please tell me how i can improve this  
+
+
+&amp;#x200B;
+
+https://preview.redd.it/me8bpshr4psa1.png?width=1200&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=bfc6ce1cbc7050c3f99f7d2569374d1bdddb0b63",0.89,7,0,7,2023-04-08T23:03:54Z,12fspfz,t3
+2,Python,git-limiter: 🧭 Tool to stop you from pushing huge diffs,,0.84,36,0,36,2023-04-08T22:47:32Z,12fs7lz,t3
+3,Python,aiob2 - A Modern and Pythonic API Wrapper for Backblaze's API,"aiob2 is an API wrapper for the Backblaze bucket API. For those unfamiliar with Backblaze buckets, they store your files like AWS S3 buckets at a fraction of the price. It's also great for making CDNs, and work brilliantly with Cloudflare.
+
+You can find it on [PyPI](https://pypi.org/project/aiob2/) and [GitHub](https://github.com/Void-ux/aiob2) (latest releases).
+
+Installing aiob2 is as simple as running `pip install aiob2`, and uploading files can be done in a single line with `await client.upload_file(content_bytes=data, file_name='test.jpg', bucket_id='id')`
+
+&amp;#x200B;
+
+If you find yourself enjoying aiob2, feel free to give it a star on GitHub :)",1.0,14,0,14,2023-04-08T20:18:50Z,12fob7n,t3
+4,Python,AutoControl is an automation package for Python.,"&amp;#x200B;
+
+## AutoControl allows you to automate keyboard and mouse control using Python.
+
+## IT IS COMPATIBLE WITH WINDOWS/MACOS/UNIX-LIKE (X11 GUI)
+
+## INCLUDES ADVANCED FEATURES SUCH AS:
+
+* Image recognition
+* Remote execution (via TCP Socket)
+* Report generation
+* JSON interpreter (converts structured data into automation scripts)
+* Experimental driver support for other programming languages
+
+[AutoControl GitHub Repo](https://github.com/Integrated-Testing-Environment/AutoControl)
+
+[AutoControl Documentation](https://autocontrol.readthedocs.io/en/latest/)
+
+[CONTRIBUTING.md](https://CONTRIBUTING.md)",0.81,20,0,20,2023-04-08T19:53:34Z,12fnmcy,t3
+5,Python,Finding Side Gigs,"Where would you guys recommend finding a side gig for commissioned work, such as creating websites, custom scripts and so on alongside your current work or school courses?
+
+Fiverr seems popular, but it’s just so oversaturated, that finding work at a decent price is damn near impossible past being in the top few sellers for your chosen category.",0.8,8,0,8,2023-04-08T19:47:30Z,12fngd2,t3
+6,Python,Pandas 2.0 (with pyarrow) vs Pandas 1.3 - Performance Comparison,,0.76,48,0,48,2023-04-08T15:04:03Z,12fgyui,t3
+7,Python,Is concurrency in python really that tedious?,[https://medium.com/@rapidfork/breaking-down-python-concurrency-the-gil-and-its-effect-on-multi-threading-b5ab99083cb2](https://medium.com/@rapidfork/breaking-down-python-concurrency-the-gil-and-its-effect-on-multi-threading-b5ab99083cb2),0.62,3,0,3,2023-04-08T13:58:01Z,12fftdh,t3
+8,Python,EP 684: A Per-Interpreter GIL Accepted,,0.97,379,0,379,2023-04-08T13:56:37Z,12ffsif,t3
+9,Python,GPTCache: A semantic cache for LLMs,"As much as we love GPT, it's expensive and can be slow at times. That's why we built GPTCache - a semantic cache for autoregressive LMs - atop Milvus and SQLite.
+
+GPTCache provides several benefits: 1) reduced expenses due to minimizing the number of requests and tokens sent to the LLM service, 2) enhanced performance by fetching cached query results directly, 3) improved scalability and availability by avoiding rate limits, and 4) a flexible development environment that allows developers to verify their application's features without connecting to the LLM APIs or network. Come check it out!
+
+[https://github.com/zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
+
+(Edit: forgot to add link)",0.33,0,0,0,2023-04-08T09:11:47Z,12faadk,t3
+10,Python,Workshop: Algorithmic Trading with Python (part 2),"Hi all
+
+We had a very successful Workshop a couple of weeks ago where we started working through a trading algorithm written in Python.
+
+We used various interesting techniques in a Jupyter Notebook to show the data justified the technique.  But we couldn't get to a conclusion in the time we had.
+
+Therefore we promised a second part which will occur on Wednesday, 12 April.  This time it's scheduled to be friendly to both Asia and Europe - and to early risers in the Americas.  7pm for Hong Kong and Singapore (9pm Sydney), 12 noon in London and 7am in New York.
+
+Here's the sign-up: 
+
+[Algorithmic Trading with Python - part 2](https://profitview.net/events/algorithmic-trading-with-python-part-2).
+
+That will occur on Wednesday 12 April.  This time it will be in hours that are friendly to both Asia and Europe - and even for early risers in the Americas.
+
+We will share all the code via our Github.  We look forward to many detailed questions.
+
+See you all next Wednesday!",0.7,4,0,4,2023-04-08T08:26:54Z,12f96cf,t3
+11,Python,Saturday Daily Thread: Resource Request and Sharing! Daily Thread,"Found a neat resource related to Python over the past week? Looking for a resource to explain a certain topic?
+
+Use this thread to chat about and share Python resources!",1.0,3,0,3,2023-04-08T05:30:14Z,12f4hre,t3
+12,Python,do you think I could make a 2d game where you can swap between these screens and move around on the map and interact with people. I will keep updating ye on the progress if people think its interesting. Is this too ambitious or is there any major problems that you see?,"&amp;#x200B;
+
+[ask questions in the comments](https://preview.redd.it/n3zivf4gqjsa1.png?width=800&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=bf9354824999bd3192c9bdcf5ac659160ee2ff55)",0.59,5,0,5,2023-04-08T04:54:23Z,12f3gww,t3
+13,Python,PEP 695: Type Parameter Syntax has been accepted by the Steering Council,,0.97,369,0,369,2023-04-08T04:54:08Z,12f3glm,t3
+14,Python,How to write a loop in ChinesePython: learning Chinese by programming,"This is a ChinesePython, or zhpy, tutorial. The next step after a modest hello world is writing a loop, so here is how to do it in **zhpy**. The following code is a simple example, and also includes how to define a function in Chinese code. The characters used in the code are broken down into each Chinese word with pinyin and meaning.
+
+&amp;#x200B;
+
+`# coding = utf-8`
+
+`# by jiahua huang`
+
+`姓名表 = ('张三', '李斯', '王海', '荷花')`
+
+`定义 打印姓名表():`
+
+`计数 = 1`
+
+`取 姓名 在 姓名表:`
+
+`打印(计数, 姓名)`
+
+`计数+=1`
+
+&amp;#x200B;
+
+`主程序:`
+
+ 	`打印姓名表()`
+
+&amp;#x200B;
+
+Let's break down each line of code into the words used. If the program in chinese above looks intimidating (it's gonna be easy!), you can check and intro to ChinesePython, that is, a hello world program in this link:
+
+[https://chinesememe.substack.com/i/103754530/chinesepython](https://chinesememe.substack.com/i/103754530/chinesepython)
+
+ 
+
+**姓名表 = ('张三', '李斯', '王海', '荷花')**
+
+*\[Xìngmíng biǎo = ('Zhāngsān', 'Lǐsī', 'Wánghǎi', 'Héhuā')\]*
+
+The variable ""姓名表"" (xìngmíng biǎo), which means ""name list"" in Chinese, is assigned a tuple containing the strings '张三' (zhāngsān), '李斯' (lǐsī), '王海' (wánghǎi), and '荷花' (héhuā), four strings representing names.
+
+The remaining lines of code define a function called ""打印姓名表"" (dǎyìn xìngmíng biǎo), which prints the names in the tuple along with a number indicating their position in the list. The function is then called in the main program, which results in the output of the names in the tuple.
+
+So here are the words used in the other lines:
+
+ 
+
+**定义 打印姓名表():**
+
+*\[Dìngyì dǎyìn xìngmíng biǎo()\]*
+
+Defines a function named ""打印姓名表"" (dǎyìn xìngmíng biǎo), which takes no arguments, and means ""print name list"".  ""定义"" (dìngyì) means ""define"" in English. In ChinesePython, it is used to define a function or a variable. In this case, it is used to define the function ""打印姓名表"", which is called later in the main program to print the names in the tuple. 
+
+&amp;#x200B;
+
+**计数 = 1**
+
+*\[Jìshù = 1\]*
+
+The variable ""计数"" (jìshù), meaning ""count"", is assigned the value of 1.
+
+ 
+
+**取 姓名 在 姓名表:**
+
+*\[Qǔ xìngmíng zài xìngmíng biǎo:\]*
+
+For each ""姓名"" (xìngmíng, ""name"") in the ""姓名表"" (xìngmíng biǎo, meaning ""name list""), do the following. This line initiates a loop that iterates through each name in the tuple ""name list"". The word ""取"" (qǔ) is a loop keyword that is commonly used in Chinese programming languages to mean ""for each"" or ""iterate over"". **在** *zài* means ""at"" or ""in"".
+
+&amp;#x200B;
+
+**打印(计数, 姓名)**
+
+*\[Dǎyìn (jìshù, xìngmíng)\]*
+
+""打印"" (dǎyìn) means ""print"" in English, note that it was used previously, not as a programming keyword, but for arbitrarily naming the function, ""print-name-list"". In this line, the function ""打印"" is called with two arguments: ""计数"" (jìshù, meaning ""count"") and ""姓名"" (xìngmíng, meaning ""name""). The variables ""计数"" and ""姓名"" are printed to the console as the loop iterates through the names in the tuple. The first argument, ""计数"" is the current count or index of the iteration, while the second argument ""姓名"" is the name being printed at that index.
+
+The next line has characters already seen previously.  This time it uses the operator ""+="" (jiādēngyǐ, meaning ""plus-equals"") a shorthand operator in Python that adds the value on the right-hand side of the operator to the variable on the left-hand side, and then assigns the result back to the variable on the left-hand side. So ""计数"" (jìshù, meaning ""count"") is incremented by 1 each time the loop iterates. This is equivalent to the longer form: ""计数 = 计数 + 1"". 
+
+Finally, since the last line of the program is also already covered, that is, it is simply a call to the function which we studied on the function definition line earlier (see above), the last line below is the ""main"" declaration of a python program, and ends this tutorial. Thank you for making this far!
+
+&amp;#x200B;
+
+**主程序:**
+
+*\[Zhǔ chéngxù\]*
+
+""主程序"" (zhǔ chéngxù, meaning ""main program"") is a label or marker that signifies the beginning of the main program. In Python. The ""main"" program is the code that is executed when the script is run. So the ""主程序"" line does not outright do anything in the code, but indicates the start of our main program.",0.62,8,0,8,2023-04-08T04:05:57Z,12f227h,t3
+15,Python,The Python Project visualized with Gource,,0.87,19,0,19,2023-04-08T02:58:27Z,12f016l,t3
+16,Python,I am making a python package to simulate physics. Check it out!,"I am in my first semester of computer engineering uni and I tried making this program that simulated physics. It’s called Miniengine and you can find it in pypi and github. here is the github repo: 
+
+https://github.com/rrayes3110/Mini-Engine
+
+At first it may be a little bit confusing to use but it’s actually very simple, I’ll be making a tutorial later this week. I am just leaning how to code, please don’t be harsh lol.",0.6,2,0,2,2023-04-08T02:42:26Z,12ezk23,t3
+17,Python,Live Tutorial on Scaling Python with Dask and Coiled (April 13)," [Click here to register!](https://www.meetup.com/bethesda-data-science-networking-meetup/events/292411174/)
+
+My meetup group is hosting Dr. Naty Clementi, one of the developers of Dask and Coiled, for a live, interaction tutorial on April 13th at 6:30pm ET (10:30pm UTC)
+
+Dask is a powerful library for parallel computing in Python and used in big data, machine learning, anywhere general-purpose parallelism is needed. Coiled extends Dask with cloud infrastructure and features like easy cloud deployment, remote package synchronization, cost management, and observability and performance hinting.
+
+The presentation will be followed by a Q&amp;A session--if you're curious about scaling your Python projects than come join us!",0.83,4,0,4,2023-04-08T01:47:44Z,12exw6s,t3
+18,Python,Calibrating a NASA instrument using Tensorflow / Keras,"Hey everyone,
+
+in my current short *Space Science with Python* series I am currently focusing on an instrument I worked on for years: Cassini's Cosmic Dust Analyzer (CDA). Although I work in industry, I am still a guest scientist doing some Machine Learning engineer on the data. *Is it interesting?* OH YES! *Could one join to work on the data, or has everything been ""found""?* Well ... I am pretty sure the data has still enough potential for another decade of research!
+
+Anyway, as every instrument, one needs to conduct some calibration tasks. In my previous chapters (3 in total) I explained the calibration data and methods to e.g., determine the impact velocity of incoming dust particles. Why is the velocity important? Based on the direction and velocity information one can conduct astro-dynamical analysis and see that some particles even come [from other Solar Systems](https://www.science.org/doi/10.1126/science.aac6397).
+
+Now the current calibration functions are polynomial fits on the data; but thanks to Machine Learning libraries one does not need any a-priori knowledge or ""wild guess"" to fit a function. E.g., the architecture of a neural network spans a vast solutions space; and the task of the training process is to determine the best solution.
+
+Now in this very first approach, I want to show a rather ""shallow deep learning"" model on this regression task in 3D. The positive side effect of this first simple approach: One can plot the solution space as a plane using Matplotlib!
+
+The next sessions will optimize the ML model and we will create some sustainable library that we will use in the future for scientific purposes.
+
+Also, the corresponding code is open and free to anyone to access!
+
+Happy holidays and happy coding,
+
+Thomas
+
+Video: [https://youtu.be/SParnhmpDX0](https://youtu.be/SParnhmpDX0)
+
+GitHub: [https://github.com/ThomasAlbin/Astroniz-YT-Tutorials/blob/main/%5BProject%5D-Cassini-CDA/01-Calibration/03\_machine\_learning\_calibration.ipynb](https://github.com/ThomasAlbin/Astroniz-YT-Tutorials/blob/main/%5BProject%5D-Cassini-CDA/01-Calibration/03_machine_learning_calibration.ipynb)",0.82,7,0,7,2023-04-08T01:29:19Z,12exbw6,t3
+19,Python,The new Balder Test Framework - Reusable and installable tests,"Have you ever thought about installing tests like you would do with Python packages? Just using and developing open-source available tests?  Check out the beta version of the Python test framework Balder.  Would be happy to hear your opinions!
+
+https://github.com/balder-dev/balder",0.57,1,0,1,2023-04-08T00:40:17Z,12evuek,t3
+20,Python,Python Hacks: Sneaky Techniques for Efficient Code,"Are you a Python developer looking to write more efficient code? Check out my latest blog post where I share some sneaky techniques to take your code to the next level. From optimizing loops to using built-in functions, these tips will help you write faster, more efficient code that gets the job done in less time.
+
+Read the full post here: [https://danielbuilescu.com/blogs/learn-python/python-hacks-sneaky-techniques-for-efficient-code](https://danielbuilescu.com/blogs/learn-python/python-hacks-sneaky-techniques-for-efficient-code)
+
+\#PythonHacks #EfficientCode #PythonDevelopment #ProgrammingTips",0.06,0,0,0,2023-04-08T00:35:44Z,12evpfb,t3
+21,Python,How to Embed a Python Streamlit App in WordPress with Replit,,0.86,5,0,5,2023-04-08T00:29:20Z,12evhz4,t3
+22,Python,ChatGPT voice assistant for Windows.," [sserver224/OpenAI-Voice-Assistant: A virtual assistant based on ChatGPT (github.com)](https://github.com/sserver224/OpenAI-Voice-Assistant) 
+
+Trigger the assistant by saying ""Computer"" if ""Listen for Computer"" is checked in the systray, or holding the BACK button on the first player's controller if connected.",0.27,0,0,0,2023-04-08T00:14:55Z,12ev22j,t3
+23,Python,Thoughts on the Python packaging ecosystem,,0.81,3,0,3,2023-04-07T22:56:45Z,12esmz7,t3
+24,Python,What could I do with this library I created,"[Maths Library](Https://www.github.com/IAmJuniorB/MathsLibrary)
+
+Edit: broke each class into separate files and kept the original “mega file” maths.py",0.8,28,0,28,2023-04-07T22:31:51Z,12erva9,t3
+25,Python,Telegram bot to chat with ChatGPT easily from your phone,"&amp;#x200B;
+
+https://i.redd.it/drvb947dlhsa1.gif
+
+&amp;#x200B;
+
+Chatting with ChatGPT through the web interface is sometimes frustrating. Plus, I found myself using it way more since I can just send it a quick text from my phone now, or even a voice message that will be transcribed.  
+
+
+I highly recommend everyone to try it for a few days, it's great for when you have questions on the fly, just open your phone and say what you need to know. The API cost is surprisingly low, I paid approximately 0.50$ in one month of use.  
+
+
+I contributed to another project like this one, but it was meant to create bot for many users, and since using your OpenAI cost money, I think a simpler project for personal use is better.  
+
+
+Looking forward for feedbacks, and I will take in consideration any feature request.  
+
+
+[GitHub repo](https://github.com/clemsau/telegram-gpt)",0.66,12,0,12,2023-04-07T21:48:20Z,12eqi3c,t3
+26,Python,RGB to Hex Converter,,0.25,0,0,0,2023-04-07T20:35:16Z,12eo8wl,t3
+27,Python,Keyring module issues?,"I've got a script I'm running that's connecting to a remote Cisco ASA using netmiko and executing a command to reset a VPN. The password for the netmiko connection is stored in windows credential manager and retrieved with the keyring module.
+
+When run locally on the box that is making the netmiko connection, everything runs fine but I'm trying to run it remotely from a second device...the plan being that a batch script runs and establishes an ssh connection from the second windows server to the first (the one that holds the python script) and kicks the script off.
+
+So when the remote execute is attempted, the password retrieval doesn't work and keyring throws a 1312 CredRead error that, from my research, is caused by the windows profile for the ssh account not being loaded.
+
+I found something on Google that said ""I fixed it, you just have to create a profile load script"" but I can't find anything on how to do that...is anyone able to help?",0.5,0,0,0,2023-04-07T20:33:57Z,12eo7gz,t3
+28,Python,Python 3.12 Preview: Ever Better Error Messages – Real Python,,0.98,118,0,118,2023-04-07T18:59:03Z,12eld7u,t3
+29,Python,Make Python Runtime faster than C++,"I wrote a Python C extension to make Python programs run faster, and even faster than C++ after comparison (but I don't know why). The package is for stream computing like in Java. It was my first time to write a Python C extension and please give me some advice thx! Here is the repo : [https://github.com/littlebutt/streamcpy](https://github.com/littlebutt/streamcpy)",0.35,0,0,0,2023-04-07T18:17:17Z,12ek73o,t3
+30,Python,"Dane Hillard joins the Pybites Podcast hosted by Bob Belderbos, for a chat about #Python packaging and developer tooling.",,0.95,18,0,18,2023-04-07T17:56:10Z,12ejm56,t3
+31,Python,GitHub - Smyja/blackmaria: Python package for webscraping in Natural language,,0.67,3,0,3,2023-04-07T17:48:44Z,12ejeqz,t3
+32,Python,"I trained a RoastBot on &gt;120,000 faces and &gt;0.5 million comments and it's a menace 😈.","It uses facial recognition to fetch roasts for users from the r/RoastMe subreddit.
+
+Try it out [here](https://subroast.me)
+
+**App:** [https://subroast.me](https://subroast.me)
+
+**Code:**  [nizarhaider/RoastMe (github.com)](https://github.com/nizarhaider/RoastMe)
+
+# Tech Stack
+
+**Front End:** Bootstrap5 + Vanilla JS
+
+**Back End:** Flask
+
+**CI/CD:** Cloud Build (GCP)
+
+**Deployment:** Cloud Run (GCP)
+
+**Models:** Facenet and MTCNN
+
+&amp;#x200B;
+
+**Edit:**  The entire subreddit has millions of images since 2014 April. I just used a fraction of it. Which means this could be 100x better (or just more accurately racist) given the time and effort to train it.
+
+**Edit2:** At u/Lewis0981 request I've added a 'feature' to see your **match image** (I've seen some bizarre cases of matches so do share them if you get it for a laugh) (Fixed the bug for this)
+
+[RoastMe](https://preview.redd.it/mps1lehexfsa1.png?width=250&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=e4b2ae973f6ea68e44977bc0c664a68107410616)",0.93,473,0,473,2023-04-07T16:06:18Z,12egsoz,t3
+33,Python,PEP 711 – PyBI: a standard format for distributing Python Binaries,,0.96,240,0,240,2023-04-07T15:15:16Z,12efni5,t3
+34,Python,"PyGAD wins the contest for most intimidating logo, change my mind","&amp;#x200B;
+
+https://preview.redd.it/gw655hudhfsa1.png?width=755&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=8314c267a55aeed2702610276c9ba97db5408e65",0.65,5,0,5,2023-04-07T14:37:59Z,12eezx8,t3
+35,Python,opinions on codon? Compiled from source on linux arm?,"I think I wanna play with codon, looking for opinions from people who've tried it.
+
+Don't currently have x86 box, does it compile ok for linux arm?",0.83,11,0,11,2023-04-07T14:16:00Z,12eemcq,t3
+36,Python,How would you unit test a graph builder?,"Greetings, I am working on a project in which we need to make plots for data analysis.
+
+Since depending on the context and the data we're analyzing we might need multiple subplots, we decided to delegate the plot construction logic to a separate class.
+
+Under the hood, it uses matplotlib.pyplot to make the graph objects, should I mock this?
+
+I'm using the unittest built-in module to make my unit tests.
+
+But in general, how would you write unit tests for such a thing? What CAN I test?",0.83,29,0,29,2023-04-07T12:39:40Z,12ecwop,t3
+37,Python,Data race in Python and GIL's role in it,,0.36,0,0,0,2023-04-07T11:17:09Z,12ebgzd,t3
+38,Python,Easily generate documentation for your Python projects with Documatic,"Easy to use documentation generator for [Python](https://www.python.org/) projects.
+
+Documatic is an easy-to-use documentation generator for Python that helps developers generate documentation for their Python packages. This documentation generator supports both HTML and [Markdown](https://daringfireball.net/projects/markdown/) output, with the default output being Markdown.
+
+[Github Repository](https://github.com/aspizu/documatic)",0.8,34,0,34,2023-04-07T08:20:20Z,12e7982,t3
+39,Python,"Ableton Auto Export using Python's AbletonOSC library, and osascript through sub process, among others. Script will soon be available!",,0.27,0,0,0,2023-04-07T07:49:53Z,12e6fyd,t3
+40,Python,Introducing: sqlalchemy-declarative-extensions (0.6.0),"[Github](https://github.com/DanCardin/sqlalchemy-declarative-extensions) / [Docs](https://sqlalchemy-declarative-extensions.readthedocs.io/en/latest/)
+
+Hello all!
+
+In short, the purpose of the library is to ""declare"" additional kinds of database objects not natively supported by SqlAlchemy/Alembic. ""Support"" essentially boiling down to ensuring that `metadata.create_all` (for tests) and `alembic --autogenerate` automatically create/update/delete your declared objects to match.
+
+It is most easily compared to `alembic_utils`, a different library with a similar goal, which I address [on the readme](https://github.com/DanCardin/sqlalchemy-declarative-extensions#alembic-utils).
+
+As of the most recent release, it supports:
+
+* Schemas
+* Views
+* Roles
+* Privileges (Grants/Default Grants)
+* Functions
+* Triggers
+* Rows (i.e. data)
+* ""Audit Tables"" (i.e. the combination of table/functions/triggers which record data changes to some source table)
+
+Support is heavily skewed (and best tested) with Postgres, but there is also provisional support for a [subset of objects SQLite and MySQ](https://github.com/DanCardin/sqlalchemy-declarative-extensions#database-support).
+
+\---
+
+The source of inspiration of the library came from frequent issues at work where additions of schemas/objects to the database would fail or be invisible to their intended users because it's so easy to forget the necessary `GRANT` (and especially `DEFAULT GRANT`) statements.
+
+Further, after getting the library to the point at which it **could** manage them for us, we realized there were many hundreds of small differences between production and the state of a database upgraded through migrations from an empty database.",0.88,18,0,18,2023-04-07T06:59:32Z,12e52tq,t3
+41,Python,Appreciating Python's match-case by parsing Python code,,0.87,37,0,37,2023-04-07T05:28:41Z,12e2pyb,t3
+42,Python,"Hacking games with Python, ctypes, and the Windows API",,0.94,200,0,200,2023-04-07T04:18:16Z,12e0uvn,t3
+43,Python,Showcasing a 2D scrolling shooter game,"Game link : [https://reticent112.itch.io/dungeon-crawler](https://reticent112.itch.io/dungeon-crawler)
+
+Game's Description :  A 2d scrolling shooter game where you have to defeat all the enemies  to proceed to next level. Game consists of 4 levels with final level  having a boss character. You have the option of selecting your player as either an elf or a wizard.
+
+Source Code : [https://github.com/Riyachauhan11/Dungeon-Crawler](https://github.com/Riyachauhan11/Dungeon-Crawler)
+
+Course i followed to make this game while adding a few additional features that came to my mind : [https://www.udemy.com/course/pygame-dungeon-crawler/](https://www.udemy.com/course/pygame-dungeon-crawler/)
+
+&amp;#x200B;
+
+[Game Banner](https://preview.redd.it/tky07y6ddbsa1.png?width=1012&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=ac3a5d7eb91cd1348be2ed37ca3c59910ff6f265)
+
+[How the Game looks like](https://preview.redd.it/iy63fzrfdbsa1.png?width=1176&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=8978f5a70b34e618a84610bbbd2ee384d6d4c3de)",0.88,15,0,15,2023-04-07T00:47:25Z,12duqn4,t3
+44,Python,NetworkX 3.1 released,,0.46,0,0,0,2023-04-07T01:14:21Z,12dvk2r,t3
+45,Python,"Pip, Private CAs, and Root Only vs Bundle Cert Specification","I have a private pypi mirror sitting on an Artifactory instance. The Artifactory instance has a server cert signed by an intermediate CA, which in turn is signed by a private root CA. My browser only has the private root CA installed, but happily accepts the server cert, because it can verify the server cert chain on it's own with no need to install the full ca bundle locally. Pip doesn't seem to work that way. If you specify a cert in pip.conf, as far as I can tell it fails unless supplied with a full ca bundle (as opposed to just the actual root pem file). I'd prefer not to install the full bundle, so that in the event I'd like to revoke the intermediate cert, nothing changes client side. Is there a work around? If not why does pip require the full bundle?",0.86,13,0,13,2023-04-06T22:55:08Z,12drar3,t3
+46,Python,"Is geopandas right for this use case or should I be looking at something else? Looking to create, manipulate, and measure closed polylines with arc segments across a shared geometric space.","I'm looking for the equivalent of 2D shape manipulation in AutoCAD, in a high-level library. Python seems like the language with the largest community for use cases like this so I'm starting here. I can do all of this via AutoCAD C# plugins but I want something more portable and accessible without requiring expensive licensing.
+
+I need to be able to create closed polylines that are made up of line and arc segments as a single entity.
+
+The closed polyline objects may contain other arbitrary geometry within them which will all be grouped together.
+
+Need to be able to move the group of entities together in 2D space while maintaining their spacial relationships (one ""group"" of geometry enclosed in a polyline need to be able to by moved together) through X and Y movements as well as rotations. Need to be able to, for example, calculate geometric center of outer polyline, select it and all geometry it contains, and rotate all around the geometric centerpoint found in the first step.
+
+Need to be able to measure the shortest distance between two polylines. This one is throwing me. It is dead simple to calculate the distance between two points, but what if the shortest distance between two objects is the middle of an arc segment?
+
+The biggest hurdles I'm running into while researching this are the distance calculations mentioned above and all of the geo libraries I'm finding being polygon-centric, meaning a collection of points with poor support for true arcs. Seems these ""geo"" libraries are all more focused on cartography that geometry.
+
+Any recommendations?",0.81,6,0,6,2023-04-06T22:42:10Z,12dqwr5,t3
+47,Python,Python sort vs sorted - Detailed Comparison With Code,"&amp;#x200B;
+
+https://preview.redd.it/uwgyqjlxlasa1.png?width=1600&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=e47ff4cf1bc89554ad4fd3cb8702a5fa262ee17a
+
+Python `sort()` and `sorted()` are used to sort the data in ascending or descending order. Their goals are the same but are used in different conditions. 
+
+The Python `sort()` function is connected to the Python list and **by default, sorts the list's contents in ascending order**. 
+
+ `list.sort(reverse=False, key=None)` 
+
+Python `sorted()` function is used to **sort the iterable data**. By default, this function **sorts the data in ascending order**. 
+
+ `sorted(iterable, key=None, reverse=False)` 
+
+**Here's a complete guide comparing both functions and pointing out differences👇👇**
+
+[Python sort vs sorted - Detailed Comparison With Code](https://geekpython.in/python-sort-vs-sorted)",0.22,0,0,0,2023-04-06T22:14:46Z,12dq2nj,t3
+48,Python,"Presenting gptty v0.2.5 - Enhanced CLI Wrapper for ChatGPT with Context Preservation, Query Support &amp; More!","Hey Reddit! 🚀
+
+After the [last post announcing gptty v0.2.1](https://www.reddit.com/r/Python/comments/123aiqk/introducing_gptty_v021_a_powerful_cli_wrapper_for/), I received an outpouring of support and feedback on the application that drove several major improvements that I’m thrilled to announce here with the newest release of gptty (v0.2.5).
+
+For those coming here for the first time, gptty is a context-preserving CLI wrapper for OpenAI's ChatGPT, now featuring an improved query subcommand and ChatCompletion model support, all available on PyPI!
+
+🔗 GitHub:[ https://github.com/signebedi/gptty/](https://github.com/signebedi/gptty/)
+
+🔗 PyPI:[ https://pypi.org/project/gptty/](https://pypi.org/project/gptty/)
+
+**What's fresh in gptty v0.2.5?**
+
+📚 Enhanced Query Subcommand: The query subcommand now supports submitting multiple questions directly from the command line, making it even more effortless to interact with ChatGPT for fast and accurate information retrieval. Additionally, new flags such as --json, --quiet, --debug, and --additional\_context improve script integration and customization.
+
+[Here's an example of a query using the --json tag](https://preview.redd.it/36jhglhvsasa1.png?width=1123&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=4d282f59d82f407c2f0e16d928d1b3a93a7d879b)
+
+🔌 ChatCompletion Models Support: gptty now supports ChatCompletion models, including GPT-4 and GPT-3.5-turbo, allowing you to seamlessly integrate the latest generation of language models into your gptty setup and continue harnessing their power.
+
+**🚧 Exciting Features on the Roadmap 🚧**
+
+gptty has more features in development to make your experience smoother and more powerful. 🛠️ Soon, we'll be introducing a universalQuery class 🔍 ([https://github.com/signebedi/gptty/issues/39](https://github.com/signebedi/gptty/issues/39)) for developers to effortlessly make abstract queries to the OpenAI API. We're also working on a listener daemon 🎧 for multi-user/async environments ([https://github.com/signebedi/gptty/issues/18](https://github.com/signebedi/gptty/issues/18)) and adding support for more granular control over context-passing between queries 🌐 ([https://github.com/signebedi/gptty/issues/16](https://github.com/signebedi/gptty/issues/16)).
+
+**Why should you use gptty?**
+
+🎯 Emphasis on Delivered Value: gptty is crafted to aid sys admins, developers, data scientists, and anyone looking to maximize the potential of ChatGPT, thanks to context preservation, command-line focus, and the new and improved query feature.
+
+🛠️ User-Friendly &amp; Adaptable: gptty boasts an intuitive command-line interface (powered by click), simplifying interactions with ChatGPT for quick one-off questions or more intricate, context-driven conversations. The enhanced query subcommand, with its new flags, facilitates seamless integration with existing workflows, automation scripts, and provides additional customization options.
+
+💪 Localized Chat History: gptty keeps your conversation history in a local CSV output file, providing uninterrupted access to past interactions even when the ChatGPT web client is down and offering greater flexibility in selecting data for future queries.
+
+You can install it over pip:
+
+    pip install gptty
+
+As always, I welcome general feedback, feature requests, bug reports, and PRs!",0.6,2,0,2,2023-04-06T22:03:04Z,12dppzi,t3
+49,Python,Announcing sequence_align: an open-source Python + Rust toolkit for efficient sequence alignment,"Hi r/Python! We just open-sourced our [sequence alignment toolkit](https://github.com/kensho-technologies/sequence_align), a performance-critical step in many natural language processing, bioinformatics and finance workflows. The main algorithmic logic is written in safe Rust with Python bindings from [PyO3](https://pyo3.rs/). Any feedback would be greatly appreciated -- thanks!
+
+Link to blog post with more details: [https://blog.kensho.com/introducing-sequence-align-an-open-source-python-rust-toolkit-for-efficient-sequence-alignment-ccdce71d04c7](https://blog.kensho.com/introducing-sequence-align-an-open-source-python-rust-toolkit-for-efficient-sequence-alignment-ccdce71d04c7)",0.81,11,0,11,2023-04-06T22:02:17Z,12dpp6z,t3
+50,Python,Algebraic Data Types in (typed) Python,,0.85,19,0,19,2023-04-06T21:51:42Z,12dpdfx,t3
+51,Python,Mypy 1.2 Released,,0.94,142,0,142,2023-04-06T21:49:31Z,12dpaz2,t3
+52,Python,(Flask) Personal portfolio website - Template,"Hi all,
+
+Recently completed my website with Flask and thought Id would share it for other to use as  template to build from.
+
+Struggled to find a nice Flask example and thus decided to create my own.
+
+Feel free to explore the code, fork as needed and build on this.
+
+It includes a pages for your blog and projects.
+
+Shout if any questions",0.67,2,0,2,2023-04-06T21:12:57Z,12do763,t3
+53,Python,"Polars for initial data analysis, Polars for production",,0.87,32,0,32,2023-04-06T20:21:42Z,12dmp1v,t3
+54,Python,PyArrow Strings in Dask DataFrames!!,"  
+The Pandas 2.0 release improved support for Arrow strings. This has pretty dramatic effects for people using Dask at large scale. You can read about it in this blog [https://medium.com/coiled-hq/pyarrow-strings-in-dask-dataframes-55a0c4871586](https://medium.com/coiled-hq/pyarrow-strings-in-dask-dataframes-55a0c4871586)",0.76,13,0,13,2023-04-06T19:20:43Z,12dl030,t3
+55,Python,Looking for Tips / Educational Newsletter for Intermediate to Advanced Python,"Hi all--
+
+Are there any good newsletters for intermediate to advanced Python learning? Something like [https://bytes.dev/](https://bytes.dev/) (but for Python, of course).",1.0,7,0,7,2023-04-06T18:24:32Z,12djg75,t3
+56,Python,SpotiFile : Music scraping made easy," 
+
+I made a neat tool to scrape songs (with GUI).
+
+[GitHub Link](https://github.com/Michael-K-Stein/SpotiFile)
+
+All you need to do is install the dependencies (""pip install -r ./requirements""), and then ""python [main.py](https://main.py/)"". It's that easy!
+
+##This tool is mainly aimed at developers looking to create datasets to train ML models.
+
+SpotiFile will open a GUI which lets you enter a playlist, album, artist, or user profile link and download all the relevant songs. This will also download all the metadata of the song, including the time-synced lyrics!
+
+If you use the tool, please give the repo a star :)
+And please tell me how to improve the code quality!
+
+Enjoy!",0.95,322,0,322,2023-04-06T15:41:05Z,12dfdq1,t3
+57,Python,Building and Training Vision Transformer from Scratch,"Hi guys,
+
+I've prepared a comprehensive tutorial [Build and Train Vision Transformer from Scratch](https://pub.towardsai.net/build-and-train-vision-transformer-from-scratch-f206c065bdf8). This article is a beginner friendly and explains ViT model fom zero (basic pytorch tensor operations) to hero (pytorch-lightning to organize your ML project).
+
+Check it out!",0.79,16,0,16,2023-04-06T13:51:36Z,12ddc7l,t3
+58,Python,versionedobj 2.0.4 is out!,"versionedobj is a framework for creating complex serializable/deserializable objects (a-la marshmallow), with versioning &amp; migration mechanisms to handle situations where you need to change the structure of a serializable object in released software.
+
+versionedobj also has a focus on easy creation and re-use of complex nested objects (again, similar to how serializable objects are created in marshmallow), and uses no recursion, so you can nest objects as deep as you like.
+
+[https://github.com/eriknyquist/versionedobj](https://github.com/eriknyquist/versionedobj)",0.69,7,0,7,2023-04-06T11:14:34Z,12daix1,t3
+59,Python,"Thursday Daily Thread: Python Careers, Courses, and Furthering Education!","Discussion of using Python in a professional environment, getting jobs in Python as well as ask questions about courses to further your python education!
+
+**This thread is not for recruitment, please see** r/PythonJobs **or the thread in the sidebar for that.**",0.81,3,0,3,2023-04-06T05:30:11Z,12d2l9a,t3
+60,Python,Introducing tmplt - A User Friendly CLI Tool for Creating Projects with Templates,"Hey everyone,
+
+I'm  excited to introduce tmplt, a powerful and user-friendly command-line  tool for quickly creating new projects based on templates. With tmplt, you can get started on your projects in no time!
+
+What is tmplt?
+
+tmplt allows you to create new projects with all the necessary files and  dependencies set up according to predefined templates. You can easily  customize these templates to suit your specific project requirements, or  download templates from the internet. tmplt comes with a simple and  flexible syntax for defining templates, including variables, files, and  dependencies.
+
+Users can create their own templates or import them from the internet
+
+Check it out here: [https://github.com/humblepenguinn/tmplt](https://github.com/humblepenguinn/tmplt)
+
+&amp;#x200B;
+
+https://i.redd.it/cgarxkv5b5sa1.gif",0.75,8,0,8,2023-04-06T04:23:43Z,12d0uu8,t3
+61,Python,10 Essential Python code snippets for projects,,0.28,0,0,0,2023-04-06T04:07:10Z,12d0f7y,t3
+62,Python,A Python Crash Course for Software Engineers,,0.2,0,0,0,2023-04-06T03:44:33Z,12cztk4,t3
+63,Python,"I wrote a small polygon ""renderer"" for .wav files to tell my gf I love her","The repo consists of three Jupyter Notebooks that handle the rendering, exporting and displaying of the data:
+
+[https://github.com/Jaybee18/wav\_renderer](https://github.com/Jaybee18/wav_renderer)
+
+[One of those .wav files displayed in FLStudio](https://preview.redd.it/t2f926j7v4sa1.png?width=432&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=1a11035ba90bb965fbb87c06b47eaaf035ee1b21)",0.78,31,0,31,2023-04-06T03:12:26Z,12cyybm,t3
+64,Python,Rubbrband: Python CLI for finetuning Stable Diffusion,"Hey everyone, we just launched the beta version of [Rubbrband](https://github.com/rubbrband/rubbrband), which is an open-source CLI that lets you finetune Stable Diffusion models in just 1 command. The CLI is super easy to use for developers who don’t have a ton of machine learning/python experience.
+
+We made Rubbrband because we found it was very difficult to finetune Dreambooth models for animation creation. We wanted to eliminate all of the environment setup time(conda, pip, and dependency hell) and boilerplate data pipeline code to make these finetuning tasks just 1 line of code. We do this by Dockerizing these models, and by building in data pipelines that automatically crop images to the right size to finetune these models.
+
+Here’s an example of what we’ve built using Rubbrband. It’s an image-to-image model that was finetuned to stylize [Daniil Trifonov](https://en.wikipedia.org/wiki/Daniil_Trifonov) in this [style of anime](https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure).
+
+[Example of animation using a finetuned dreambooth model](https://preview.redd.it/l97eyn8pt4sa1.png?width=1283&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=b31e31d55f1aaf631c6cfde9ec901e92194b890c)
+
+We’d love to get your take on what we’ve built! We’d love to get contributors on this project so that we can help support more open-source models, which involves dockerizing them and creating data pipelines. [Star us on GitHub](https://github.com/rubbrband/rubbrband) to keep up with new features!",0.64,3,0,3,2023-04-06T02:49:27Z,12cybmt,t3
+65,Python,Is E501 (79 character lines) still relevant?,"I decided to enable auto linting and boy, that was a huge mistake.
+
+Specifically  E501, which made my code about 2-3x longer.
+
+Due to long variable names, paths, or functions, my 90 character long lines turned into 3 lines.
+
+Is this still relevant in 2023? Is there something happening at the lower level that requires 79 chars per line? I understand the monitor thing, but that seems outdated, even as I work on a tiny laptop monitor.",0.93,146,0,146,2023-04-06T02:08:23Z,12cx3fa,t3
+66,Python,GitHub - INeddHelp/PySwissArmy: PySwissArmy is a Python utility library designed to make common programming tasks easier.,,0.13,0,0,0,2023-04-06T00:19:41Z,12cu0mo,t3
+67,Python,🐍Music video clip by every word is a Google image🎵,"I wrote this cool article about one of my school projects come check it out!
+
+➡️ [Music video clip but every word is a Google image](https://dev.to/plsergent/music-video-clip-by-every-word-is-a-google-image-7ab)
+
+The idea is that thanks to this Python module you can transform music into video clips with one image for each word.
+
+Source code here: [https://github.com/PLsergent/OWOI\_AudioToClip](https://github.com/PLsergent/OWOI_AudioToClip)",0.67,1,0,1,2023-04-05T12:35:00Z,12cbmes,t3
+68,Python,OpenConnect Linux GUI Front-end With Tkinter,"Hello! :) i made an Simple GUI Front-End For The OpenConnect VPN On Linux using Tkinter and python, it's not much in terms of Looks but it's functional and has a Local Sqlite3 Database feature if you choose to save your account info. Any advice and suggestion is highly appreciated!
+
+[https://github.com/stking68/OpenConnect-Linux-GUI](https://github.com/stking68/OpenConnect-Linux-GUI)",0.82,7,0,7,2023-04-05T23:09:47Z,12crz98,t3
+69,Python,"2,000 free sign ups available for the ""Automate the Boring Stuff with Python"" online course. (April 2023)","**EDIT: The sign ups are all used up. Remember that  the Free Preview is enabled for all videos, so you can still watch them all on the course home page. [And the first 15 videos are also on YouTube.](https://www.youtube.com/watch?v=1F_OgqRuSdI&amp;list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)**
+
+If you want to learn to code, I've released 2,000 free sign ups for my course following my Automate the Boring Stuff with Python book (each has 1,000 sign ups, use the other one if one is sold out): 
+
+~~https ://udemy .com/course/automate/?couponCode=APR2023FREE~~
+
+~~https ://udemy .com/course/automate/?couponCode=APR2023FREE2~~
+
+Udemy has changed their promo code and severely limited the number of sign ups I can provide each month, so only sign up if you are reasonably certain you can eventually finish the course. [The first 15 of the course's 50 videos are free on YouTube if you want to preview them.](https://www.youtube.com/watch?v=1F_OgqRuSdI&amp;list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
+
+YOU CAN ALSO WATCH THE VIDEOS WITHOUT SIGNING UP FOR THE COURSE. All of the videos on the course webpage have ""preview"" turned on. Scroll down to find and click ""Expand All Sections"" and then click the preview link. You won't have access to the forums and other materials, but you can watch the videos.
+
+**NOTE: Be sure to BUY the course for $0, and not sign up for Udemy's subscription plan. The subscription plan is free for the first seven days and then they charge you. It's selected by default. If you are on a laptop and can't click the BUY checkbox, try shrinking the browser window. Some have reported it works in mobile view.**
+
+Sometimes it takes an hour or so for the code to become active just after I create it, so if it doesn't work, go ahead and try again a while later.
+
+Some people in India and South Africa get a **""The coupon has exceeded it's maximum possible redemptions""** error message. [Udemy advises that you contact their support if you have difficulty applying coupon codes, so click here to go to the contact form.](https://support.udemy.com/hc/en-us/requests/new?type=student) If you have a VPN service, try to sign up from a North American or European proxy.
+
+**I'm also working on another Udemy course** that follows my recent book ""Beyond the Basic Stuff with Python"". So far I have [the first 15 of the planned 56 videos done. You can watch them for free on YouTube.](https://www.youtube.com/watch?v=kSrnLbioN6w&amp;list=PL0-84-yl1fUmeV_2bBSguF_S0TVZk8wow&amp;index=1)
+
+Side note: My latest book, Python Programming Exercises Gently Explained is a set of 42 programming exercises for beginners [for free](https://inventwithpython.com/pythongently/) or as a [99 cent ebook](https://www.amazon.com/Python-Programming-Exercises-Gently-Explained-ebook/dp/B0BGYJ7G6T/).
+
+
+**Frequently Asked Questions:** (*read this before posting questions*)
+
+* This course is for beginners and assumes no previous programming experience, but the second half is useful for experienced programmers who want to learn about various third-party Python modules.
+* If you don't have time to take the course now, that's fine. Signing up gives you lifetime access so you can work on it at your own pace.
+* This Udemy course covers roughly the same content as the 1st edition book (the book has a little bit more, but all the basics are covered in the online course), which you can read for free online at https://inventwithpython.com
+* The 2nd edition of Automate the Boring Stuff with Python is free online: https://automatetheboringstuff.com/2e/
+* I do plan on updating the Udemy course for the second edition, but it'll take a while because I have other book projects I'm working on. If you sign up for this Udemy course, you'll get the updated content automatically once I finish it. It won't be a separate course.
+* It's totally fine to start on the first edition and then read the second edition later. I'll be writing a blog post to guide first edition readers to the parts of the second edition they should read.
+* I wrote a blog post to cover [what's new in the second edition](https://inventwithpython.com/blog/2019/10/07/whats-new-in-the-2nd-edition-of-automate-the-boring-stuff-with-python/)
+* **You're not too old to learn to code. You don't need to be ""good at math"" to be good at coding.**
+* Signing up is the first step. Actually finishing the course is the next. :) [There are several ways to get/stay motivated.](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_can_i_get.2Fstay_motivated_to_learn_programming.3F) I suggest getting a ""gym buddy"" to learn with. Check out /r/ProgrammingBuddies",0.87,176,0,176,2023-04-05T20:30:50Z,12cn56l,t3
+70,Python,StrictPython,"[SamG101-Developer/Strict-Python: Strict Python (github.com)](https://github.com/SamG101-Developer/Strict-Python)
+
+&amp;#x200B;
+
+Strict-Python
+
+Strict Python is a small libary that enforces several concepts from other language, reducing the flexibility and ensuring better safety in certain areas of Python code. There's still quite a bit of work to be done; see the ReadMe
+
+&amp;#x200B;
+
+Functionality
+
+&amp;#x200B;
+
+\- Type checking on function parameters -&gt; checked against annotations
+
+\- Type checking on function return value -&gt; checked against annotation
+
+\- Type checking on attributes being set -&gt; checked against annotation
+
+\- All parameters and return types are required
+
+\- All attributes must be declared at the top of the class with their associated type
+
+\- Attributes defined as a typing.Final\[T\] are not modifiable, except from the constructor
+
+\- Access modifiers are enforced via naming conventions (\_protected, \_\_private)
+
+\- Can declare friend functions, classes or methods to allow access to non-public members
+
+&amp;#x200B;
+
+Please add issues if you come across any :)
+
+&amp;#x200B;
+
+EDIT:
+
+To use it, just inherit ""base\_object"" into your class, and define friends with \_\_friends\_\_ = {...} - the friends are strings of class names etc, README has more detail",0.71,3,0,3,2023-04-05T19:52:23Z,12clzsx,t3
+71,Python,Develop and Invoke AWS Lambda Functions programmatically.,,0.89,13,0,13,2023-04-05T18:19:33Z,12cjaoa,t3
+72,Python,How I was able to identify 3 bottlenecks in WebAssembly python bindings,"[in this github comment](https://github.com/bytecodealliance/wasmtime-py/issues/96#issuecomment-1497336349) I was able to identify 3 types of bottlenecks
+
+- passing large data (ex. image)
+- calling wasm from python loop
+- calling python from wasm loop
+
+the first two was resolved.
+basically for the first one, the time was proportional to the data size,
+for the 2nd and 3rd ones there was a constant time regardless of data size (ex. 40ms is wasted calculating gcd of two integers)
+
+using [cProfile](https://docs.python.org/3/library/profile.html) I was able to spot hot places where a loop of 1k iterations did 7k isinstance ..etc
+by looking and number of calls and cumulative time I was able to solve the second one
+
+the 3rd bottleneck is not yet.",0.65,4,0,4,2023-04-05T18:06:54Z,12ciyi7,t3
+73,Python,GitHub - blipk/pysh: bash in python,,0.85,32,0,32,2023-04-05T17:25:33Z,12chv0i,t3
+74,Python,Step-by-step tutorial on Web Scraping with Python with code snippets,,0.91,320,0,320,2023-04-05T16:40:38Z,12cgplg,t3
+75,Python,I re-implemented JupyterHub the Kubernetes way,"[https://ouba.online/blog/2023/3/8/you\_probably\_dont\_need\_jupyterhub\_on\_kubernetes/post](https://ouba.online/blog/2023/3/8/you_probably_dont_need_jupyterhub_on_kubernetes/post)
+
+[https://github.com/machine424/notebook-on-kube](https://github.com/machine424/notebook-on-kube)",0.84,11,0,11,2023-04-05T16:03:16Z,12cftw9,t3
+76,Python,chatGPT can never replace programmers,,0.26,0,0,0,2023-04-05T15:42:56Z,12cfdal,t3
+77,Python,Bobtail static files - A little Python http framework,"https://preview.redd.it/7g67xphw91sa1.png?width=1626&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=56472f2b5d5c07d0046307fe7b8a403c9096412a
+
+Bobtail v0.0.14 now serves static files - [https://github.com/joegasewicz/bobtail](https://github.com/joegasewicz/bobtail)",0.87,39,0,39,2023-04-05T14:49:40Z,12cecr3,t3
+78,Python,A thought on getting rid of the GIL in CPython,"I'm sorry if this is too naive.
+
+As I understand, the biggest roadblock to get rid of the GIL in the CPython implementation is that turning to atomic refcounting hurts performance of single thread programs.
+
+GIL is basically GRL(Global Refcount Lock) + other things. To address the GRL aspect of it, how about this:
+
+Put two refcount integers in the PyObject struct:
+
+1. A non-atomic reference count, as currently used. This is incremented/decremented while holding the GRL, as today.
+
+2. An atomic reference count, incremented/decremented atomically without acquiring the GRL.
+
+An object goes die if both refcounts reach zero.
+
+Each thread has a thread local flag to indicate its preferred reference count method:
+
+1. The default is the existing non-atomic approach, respecting the GRL.
+
+2. The flag can be toggled to use the atomic reference count instead, allowing the thread to ignore the GRL.
+
+If no one toggles the flag, behavior is unchanged. Toggling the flag dynamically switches between the two modes.
+
+The two reference count methods have the same semantics, just differing in performance. So the flag only needs to be checked occasionally, e.g. once per function in the bytecode interpreter and C extensions. Old C extensions might still work without changing the source code.
+
+This provides two benefits:
+
+1. For single thread programs, the GRL is respected and contention is low, preserving performance.
+
+2. Individual threads can opt out of the GRL when they need to, increasing parallelism.
+
+User code can change the flag dynamically to affect the thread's overall refcount flavor.
+
+C extension may also select modes at will, in spite of the flag.",0.47,0,0,0,2023-04-05T12:24:48Z,12cbeqh,t3
+79,Python,🎙️ Introducing an Impressive Streamlit Audio Recorder Custom Component for Python Enthusiasts! 🚀 Star the Repo &amp; Enhance Your Apps! 🎵,"Hello Pythonistas! 👋
+
+I recently came across a fantastic custom component for Streamlit, developed by Stefan Rummer, that I believe will be an excellent addition to your Python-powered projects. It's called streamlit_audio_recorder, and though it's a work in progress, it's already highly functional and useful! Take a look at the GitHub repo here: https://github.com/stefanrmmr/streamlit_audio_recorder ⭐️
+
+🔥 Features &amp; Outlook:
+
+Manage access to your microphone via the browser's Media-API 🎙️
+Record, playback, and revert audio-captures within the Streamlit app 🔊
+Download the final recording to your local system (WAV, 16 bit, 44.1 kHz) 📥
+Directly return audio recording-data to Python backend! (arrayBuffer) 🐍
+⚡️ What's New:
+
+Reduced repo size by removal of redundant node-modules! (393Mb --&gt; 70Mb) 🚀
+Simplified SETUP TUTORIAL, that will get you to record audio within no time! 🎉
+This custom component unlocks countless possibilities for your Python-based projects, from data collection to speech recognition and natural language processing. Just follow the step-by-step Component Setup in the README to integrate it into your Streamlit apps.
+
+Please consider leaving a star ☆ on the GitHub repo to show your support and help this amazing custom component gain more visibility and traction in the Python and Streamlit communities! 🙌
+
+If you have any questions or suggestions, don't hesitate to reach out to Stefan! 📬
+
+Happy audio recording and Python coding, everyone! 🎶🐍",0.5,0,0,0,2023-04-05T08:58:44Z,12c6ww6,t3
+80,Python,Simple Beginnings,"Hi all.  New to the scene thanks to a work program paying out a yearly stipend for tuition that lead me to taking an introductory course to Python.
+
+Nothing really big to share just finished whipping up a basic frame with a button that will record the current time in a text file.  This will replace my current format of tracking my working hours via spreadsheet.
+
+Compared to the vast majority of posts here this is small fish.  It is a basic gray screen with a basic button and a time read out, but to me it is a step into a new world.
+
+I'm happy to be here and happy to be lurking this thread gobbling up any info I can understand lol.
+
+Just wanted to share my excitement.  Happy coding :-)",0.76,11,0,11,2023-04-05T06:25:01Z,12c2zw2,t3
+81,Python,Wednesday Daily Thread: Beginner questions,"New to Python and have questions? Use this thread to ask anything about Python, there are no bad questions!
+
+This thread may be fairly low volume in replies, if you don't receive a response we recommend looking at r/LearnPython or joining the Python Discord server at [https://discord.gg/python](https://discord.gg/python) where you stand a better chance of receiving a response.",0.81,3,0,3,2023-04-05T05:30:15Z,12c1jky,t3
+82,Python,Be confident in your requirements list with bonded,"Bonded is a linter that alerts on both missing and unused requirements.
+
+Bonded checks for project requirements that are not actually used in the project and for imports that don't map back to any requirement explicitly declared as a dependency. By verifying both relationships, projects can be assured that all requirements necessary at runtime are properly captured as direct dependencies and not available only because of an indirect relationship. Projects can also be assured that the requirements that are declared are all necessary to the project.
+
+The results I am getting from checking real code bases is looking really promising. But I won't know how good of a tool it is until I am not the only one using it. I would like to publish the first stable release but I need your help! Try it out and let me know how it does. Tell me what I missed or what's hard to use. I will help any project in getting the tool working for them.
+
+[https://pypi.org/project/bonded/](https://pypi.org/project/bonded/)",0.86,15,0,15,2023-04-05T03:49:39Z,12byqwg,t3
+83,Python,Time Complexity and Big O Notation,"Time complexity is an important concept in computer science that refers to the amount of time it takes for an algorithm or program to run as a function of its input size. In this tutorial, I will explore the time complexity of loops, nested loops, if-else statements, and different Python data structures, and discuss which ones are optimized for various use cases.
+
+## Time Complexity of Loops
+
+Loops are a common programming construct used to repeat a block of code a certain number of times. The time complexity of a loop depends on the number of times the loop runs as a function of its input size.
+
+### Example: Simple for loop
+
+    for i in range(n):
+        print(i)
+
+The time complexity of this loop is O(n), where n is the input size. This is because the loop runs exactly n times, printing the value of i each time.
+
+### Example: Nested for loops
+
+    for i in range(n):
+	    for j in range(n):
+	        print(i, j)
+
+The time complexity of this loop is O(n^2), because the loop runs n^2 times. This is because, for each value of i, the inner loop runs n times, so the total number of iterations is n * n = n^2.
+
+## Time Complexity of If-Else Statements
+
+If-else statements are used to conditionally execute code based on a given condition. The time complexity of an if-else statement is typically O(1), as the code will only execute once regardless of the input size.
+
+### Example: Simple if-else statement
+
+	if x &gt; 0:
+	    print(""x is positive"")
+	else:
+	    print(""x is non-positive"")
+
+The time complexity of this if-else statement is O(1), as the code inside the if or else block will only execute once.
+
+### Example: Nested if-else statements
+	if x &gt; 0:
+	    if y &gt; 0:
+	        print(""x and y are positive"")
+	    else:
+	        print(""x is positive, y is non-positive"")
+	else:
+	    print(""x is non-positive"")
+
+The time complexity of this nested if-else statement is still O(1), as the code inside the if or else blocks will only execute once.
+
+## Time Complexity of Python Data Structures
+
+Different Python data structures have different time complexities for common operations such as accessing, inserting, and deleting elements.
+
+### Lists
+
+Lists are a common data structure in Python that can hold a sequence of elements. Lists are implemented as an array, and have the following time complexities:
+
+-   Accessing an element by index: O(1)
+-   Appending an element: O(1)
+-   Inserting an element at a specific index: O(n)
+-   Removing an element: O(n)
+-   Sorting the list: O(n log n)
+
+		my_list = [1, 2, 3, 4, 5]
+		
+		print(my_list[0])     # O(1)
+		my_list.append(6)     # O(1)	
+		my_list.insert(2, 7)  # O(n)
+		my_list.remove(3)     # O(n)
+		my_list.sort()        # O(n log n)
+
+### Tuples
+
+Tuples are similar to lists but are immutable (i.e. cannot be changed after creation). Tuples have the following time complexities:
+
+-   Accessing an element by index: O(1)
+
+		my_tuple = (1, 2, 3, 4, 5)
+		print(my_tuple[0])  # O(1)
+
+### Dictionaries
+
+Dictionaries are data structure that maps keys to values. Dictionaries are implemented as a hash table, and have the following time complexities:
+
+-   Accessing a value by key: O(1)
+-   Inserting a new key-value pair: O(1)
+-   Deleting a key-value pair: O(1)
+
+		my_dict = {""apple"": 1, ""banana"": 2, ""orange"": 3} 
+		  
+		print(my_dict[""banana""])  # O(1)
+		my_dict[""grape""] = 4      # O(1)
+		del my_dict[""orange""]     # O(1)
+
+### Sets
+
+Sets are data structure that holds a collection of unique elements. Sets are implemented as a hash table, and have the following time complexities:
+
+-   Adding an element: O(1)
+-   Checking if an element is in the set: O(1)
+-   Removing an element: O(1)
+
+		my_set = {1, 2, 3, 4, 5}
+		
+		my_set.add(6)       # O(1)
+		print(2 in my_set)  # O(1)
+		my_set.remove(3)    # O(1)
+
+### Which Data Structure to Use
+
+Choosing the right data structure for a given problem depends on the specific requirements of the problem and the expected input size. Generally, if quick access or modification of elements is required, lists and dictionaries are good choices. If the uniqueness of elements is required, sets should be used. If the elements cannot be changed after creation, tuples should be used.
+
+## Conclusion
+
+Understanding time complexity is important for designing efficient algorithms and choosing appropriate data structures for different use cases. By knowing the time complexity of loops, if-else statements, and Python data structures, we can make informed decisions about which algorithms and data structures to use to optimize performance.",0.4,0,0,0,2023-04-05T02:42:15Z,12bwrfs,t3
+84,Python,Performant csv parsers,"what's the fastest and/or most memory efficient csv parser in Python? datatable maybe?
+
+looking for some candidates to benchmark against",0.72,3,0,3,2023-04-05T01:04:56Z,12btus6,t3
+85,Python,I made a program to download / back up all of your saved Reddit content,"**Big update: the code now supports downloading ALL saved posts from your account, ever. Apparently, you can request this data from Reddit. See the repo for details**
+
+I have a lot of saved pictures/images/videos, but Reddit only retains the last 1000 saved posts. So over the years, I’ve lost a lot of content. There are some software out there that download your saved posts, but I couldn’t find one that handled the file formats I wanted and also took the already-downloaded posts into account. Therefore, I made a program to do just that. It works pretty well for images and videos.
+
+This is my first real/usable Python project. It’s not too complicated but it took me longer than expected to figure out some things. Please try it out and let me know what you think!
+
+Also, it can’t handle text-only posts or comments just yet. Requests only returns the HTML but I guess the page content is loaded by JavaScript.
+
+https://github.com/aeluro1/geddit/",0.96,178,0,178,2023-04-05T00:03:02Z,12bs0xr,t3
+86,Python,What projects use ebooklib,"I'm trying to use this library, but I'm kind of having trouble to get what I want.
+So I'm looking for other projects using this lib to get use examples.
+Thanks you all.",0.5,0,0,0,2023-04-04T21:12:18Z,12bmy0q,t3
+87,Python,Analysing the emotion timeline of the Enron scandal through their internal emails in Python,"I've been playing around with the Enron dataset in Python. Thought it would be interesting to you folks.
+
+https://reddit.com/link/12bl2uj/video/g2m72xcspvra1/player
+
+&amp;#x200B;
+
+Mainly used pandas, using the dataset of internal Enron emails from their collapse that was released during criminal proceedings.
+
+Also used the NRC Emotion Lexicon.
+
+Blog: [https://www.superflows.ai/blog/enron-sentiment](https://www.superflows.ai/blog/enron-sentiment)
+
+&amp;#x200B;
+
+Edit: sent the wrong repo! 
+
+GitHub repo: [https://github.com/SuperflowsAI/enron-sentiment-analysis](https://github.com/SuperflowsAI/enron-sentiment-analysis)",0.96,278,0,278,2023-04-04T20:07:50Z,12bl2uj,t3
+88,Python,Favorite/best PyCharm plugins?,"What are everyone's favorite or must-have PyCharm plugins?
+
+For me, I've been really enjoying the [`Ruff` plugin](https://plugins.jetbrains.com/plugin/20574-ruff). I like have the code highlights on for suggestions.",0.96,120,0,120,2023-04-04T19:56:49Z,12bkrqg,t3
+89,Python,Inspect interactively any object in Colab,"&amp;#x200B;
+
+https://i.redd.it/9kv2j0u1bvra1.gif
+
+To help debugging or exploring an object structure, [ecolab.inspect](https://github.com/google/etils/blob/main/etils/ecolab/README.md) allow to inspect arbitrary Python objects interactively (similar to the Chrome console inspector) : 
+
+Demo: [https://www.youtube.com/watch?v=MFbb5wZlYvE](https://www.youtube.com/watch?v=MFbb5wZlYvE)
+
+Usage:
+
+    !pip install --upgrade etils[ecolab]
+    
+    from etils import ecolab
+    
+    ecolab.auto_inspect()  # Add `INSPECT` button on all cell outputs
+    
+    ecolab.inspect(obj)  # Inspect any object anywhere in our code (e.g. `locals()`)
+
+&amp;#x200B;
+
+Documentation: [https://github.com/google/etils/blob/main/etils/ecolab/README.md](https://github.com/google/etils/blob/main/etils/ecolab/README.md)
+
+Code: [https://github.com/google/etils](https://github.com/google/etils)",0.72,3,0,3,2023-04-04T18:53:22Z,12bj27u,t3
+90,Python,Flask app with PostgreSQL (CRUD operations),,0.5,0,0,0,2023-04-04T18:51:50Z,12bj0qj,t3
+91,Python,Textual 0.18.0 adds an API for managing concurrent workers,,0.84,69,0,69,2023-04-04T18:47:56Z,12biwwo,t3
+92,Python,RedditWarp: A comprehensive and type-complete library for interacting with the Reddit API,"[//]: # (What do narwals do at midnight?)
+[//]: # (Be the first to comment the correct word on this post, and I’ll be proud.)
+
+* 🐙 **[GitHub](https://github.com/Pyprohly/redditwarp)**  
+* 📦 **[PyPI](https://pypi.org/p/redditwarp/)**  
+* 📚 **[ReadTheDocs](https://redditwarp.readthedocs.io/)**
+
+-----
+
+Hello r/Python!
+
+I’m happy to announce the release of a new wrapper library for the Reddit API called *RedditWarp*. It’s a package that’s type-complete, feature-rich, and ready to be used to create robust Reddit bots and programs.
+
+RedditWarp has been built from scratch. It offers a well-designed programming interface that handles the complexities of the Reddit API in a way that is easy to remember, highly discoverable, and reduces cognitive load. The library is static-type conscious, meaning that you can develop Reddit bots and programs in a type-safe manner.
+
+This is a full release. It has been something I’ve been working on for the past 3 years, and I decided to hold off on the release until I felt it was fully developed. Although the repository has been up for some time, the project has not been widely publicised or discovered, so everyone is on equal starting ground today when it comes to learning about this library.
+
+The rest of this post will be a quick tour of the library. It’s a useful read if you don’t intend on actually using it, since more extensive documentation is available. I know a lot of new package announcements in r/Python aren’t relevant to everyone so I’ve selected a few topics to showcase that I hope are applicable from a more general programming perspective.
+
+-----
+
+## RedditWarp library tour
+
+### A quick example
+
+Here is a quick demo of what using the RedditWarp library looks like. The code snippet below lists 5 submissions from the Reddit front page. You can do `pip install redditwarp` and try out this code right now.
+
+	import redditwarp.SYNC
+
+	client = redditwarp.SYNC.Client()
+
+	it = client.p.front.pull.hot(5)
+	l = list(it)
+	for subm in l:
+	    print(""r/{0.subreddit.name} | {0.id36}+ ^{0.score} | {0.title!r:.80}"".format(subm))
+
+### Dual sync and async IO support
+
+The most common approach for libraries to support both sync and async IO is to create asynchronous versions of classes with an `Async` prefix and having async methods with the the same names as the non-async version class. Another option is to have just one class with both async and non-async methods side by side, with the async version suffixed with `_async`.
+
+To support both sync and async IO worlds, I’ve adopted a different approach where the IO world to be used is determined by the import location. This makes it easy to switch the synchronicity of your program by swapping out the imports. In general, sync components are contained in modules suffixed with ‘`SYNC`’, and async components are in modules suffixed with ‘`ASYNC`’.
+
+The following is an example of a program that monitors inbox messages. Notice the `SYNC` word in all the imports. To convert this program to an asynchronous one, all you have to do is replace `SYNC` with `ASYNC`, put the `async` and `await` keywords in the right places, and then wrap `main()` in `asyncio.run()`.
+
+	#!/usr/bin/env python
+	from __future__ import annotations
+	from typing import TYPE_CHECKING
+	if TYPE_CHECKING:
+	    from redditwarp.models.message_SYNC import MailboxMessage
+
+	import redditwarp.SYNC
+	from redditwarp.models.message_SYNC import ComposedMessage
+	from redditwarp.streaming.makers.message_SYNC import create_inbox_message_stream
+	from redditwarp.streaming.SYNC import flow
+
+	def main() -&gt; None:
+	    client = redditwarp.SYNC.Client()
+	    with client:
+	        inbox_message_stream = create_inbox_message_stream(client)
+
+	        @inbox_message_stream.output.attach
+	        def _(mesg: MailboxMessage) -&gt; None:
+	            if isinstance(mesg, ComposedMessage):
+	                if mesg.subject.startswith('!ping'):
+	                    client.p.message.send(
+	                        mesg.author_name,
+	                        're: ' + mesg.subject,
+	                        'pong',
+	                    )
+
+	        flow(inbox_message_stream)
+
+	main()
+
+&amp;thinsp;^(More info: &lt;https://redditwarp.readthedocs.io/en/latest/user-guide/the-basics.html#two-io-worlds&gt;)
+
+### HTTP components
+
+RedditWarp is HTTP transport library agnostic and includes wrappers to support multiple HTTP libraries. If no HTTP library is available it will fallback to using Python’s `urllib.request` module or raise `ModuleNotFoundError` when you attempt to instantiate a client instance in async world.
+
+For simple use cases, you can use these HTTP components in your application to not have it depend on any particular HTTP library.
+
+	import json
+
+	from redditwarp.http.transport.reg_SYNC import new_connector
+	from redditwarp.http.http_client_SYNC import HTTPClient
+
+	http = HTTPClient(new_connector())
+
+	resp = http.request('POST', 'http://httpbin.org/post', json={'a': [1, 2, 3]})
+	resp.ensure_successful_status()
+	json_data = json.loads(resp.data)
+	print(json_data)
+
+&amp;thinsp;^(More info: &lt;https://redditwarp.readthedocs.io/en/latest/user-guide/http-components.html&gt;)
+
+### Comment tree traversals
+
+Formal tree node data structures are used to model submission comment trees. General tree nodes are defined as a data class with a `value` and `children` field. Submission comment tree nodes extend the general tree node data structure and include a new field: `more`. This object, if not `None`, is a callable that makes a network request and returns another tree node that is to be treated as a continuation of the original `children` list.
+
+Writing your own traversal algorithm is necessary to navigate through comment trees. RedditWarp deliberately does not include any built-in tree traversal methods to avoid making assumptions about the user’s needs.
+
+The `traversal()` function in the following program demonstrates a recursive DFS traversal.
+
+	#!/usr/bin/env python
+	from __future__ import annotations
+	from typing import TYPE_CHECKING, Iterator
+	if TYPE_CHECKING:
+	    from redditwarp.models.comment_tree_SYNC import CommentSubtreeTreeNode
+
+	import redditwarp.SYNC
+	from redditwarp.models.comment_SYNC import Comment
+
+	def traversal(node: CommentSubtreeTreeNode[object]) -&gt; Iterator[tuple[int, Comment]]:
+	    def traverse(root: CommentSubtreeTreeNode[object], level: int = 0) -&gt; Iterator[tuple[int, Comment]]:
+	        value = root.value
+	        if isinstance(value, Comment):
+	            yield (level, value)
+
+	        for child in root.children:
+	            yield from traverse(child, level + 1)
+
+	        if root.more:
+	            yield from traverse(root.more(), level)
+
+	    return traverse(node)
+
+	client = redditwarp.SYNC.Client()
+	tree_node = client.p.comment_tree.fetch(1537771841)
+	for depth, comment in traversal(tree_node):
+	    print(depth, comment.author_display_name, repr(comment.body)[:10])
+
+The recursive DFS algorithm works well, but Python’s call stack limit of 1000 levels makes it potentially fragile. An iterative version may be a better choice, but creating an algorithm that is as neat as the recursive one can be challenging due to the need to handle the ‘more’ callables. In a naive iterative version, the ‘more’ callables may be evaluated in the wrong order, resulting in output that looks jittery and slow for scripts that display comment trees.
+
+Here is a naive iterative version of the recursive DFS traversal shown above.
+
+	from collections.abc import MutableSequence
+	from collections import deque
+
+	def traversal(node: CommentSubtreeTreeNode[object]) -&gt; Iterator[tuple[int, Comment]]:
+	    stack: MutableSequence[CommentSubtreeTreeNode[object]] = deque([node])
+	    levels = deque([0])
+	    while stack:
+	        node = stack.pop()
+	        level = levels.pop()
+
+	        value = node.value
+	        if isinstance(value, Comment):
+	            yield (level, value)
+
+	        if node.more:
+	            stack.append(node.more())
+	            levels.append(level)
+
+	        stack.extend(reversed(node.children))
+	        levels.extend([level + 1] * len(node.children))
+
+The problem is that the ‘more’ callables are evaluated as soon as the nodes are encountered, whereas in the recursive version, the ‘more’ callable of the innermost nodes are evaluated first, which should be the correct order of evaluation.
+
+Here is the ‘fixed’ version.
+
+	from collections.abc import MutableSequence, Callable
+	from collections import deque
+	from redditwarp.models.comment_tree_SYNC import MoreCommentsTreeNode
+
+	def traversal(node: CommentSubtreeTreeNode[object]) -&gt; Iterator[tuple[int, Comment]]:
+	    stack: MutableSequence[bool] = deque([True])
+	    node_stack: MutableSequence[CommentSubtreeTreeNode[object]] = deque([node])
+	    more_stack: MutableSequence[Callable[[], MoreCommentsTreeNode]] = deque()
+	    levels = deque([0])
+	    while stack:
+	        if stack.pop():
+	            node = node_stack.pop()
+	        else:
+	            node = more_stack.pop()()
+	        level = levels.pop()
+
+	        value = node.value
+	        if isinstance(value, Comment):
+	            yield (level, value)
+
+	        if node.more:
+	            stack.append(False)
+	            more_stack.append(node.more)
+	            levels.append(level)
+
+	        stack.extend([True] * len(node.children))
+	        node_stack.extend(reversed(node.children))
+	        levels.extend([level + 1] * len(node.children))
+
+It’s more complex. I found it weird and unfortunate how the iterative version has to be so much uglier than the recursive one because of the handling of the ‘more’ field in the comment tree nodes. I hope I’m not missing something….
+
+&amp;thinsp;^(More info: &lt;https://redditwarp.readthedocs.io/en/latest/user-guide/comment-trees.html&gt;)
+
+-----
+
+If you wish to continue reading about this new library, see my [announcement post](https://www.reddit.com/r/redditdev/comments/12biw65/redditwarp_the_nextlevel_reddit_api_library_for/) at r/redditdev.
+
+Thanks for reading and happy coding!",0.92,45,0,45,2023-04-04T18:47:26Z,12biwcy,t3
+93,Python,Pydantic V2 Pre Release,,0.9,49,0,49,2023-04-04T18:29:50Z,12bif2z,t3
+94,Python,Little guidance of a python newbie,"Hi there,
+
+I am new to python and need some advice in the right direction. I dont need solutions here. I am just looking for some advices and right directions.
+
+I am receiving a couple of \*.txt files on a webserver every day at different times. I would like to create an app/gui which notifies me about the new files.
+
+Functionalities of the app:  
+1. Observe the webserver folder, list all files and notify me about new incoming file (live). How to create an ""webserver folder observer""?  
+2. Process the file and show the content of the file.  
+3. By clicking on one of the files in the list (see 1.), create a Database-Query and show the results. All files containign an ID. Depending on that ID, I would like to rquest some data of the Database.
+
+What is th ebest way to implement such app?
+
+Do I need to use a gui framework? Is it possible just to use a browser as a gui interface?
+
+Greetings",0.5,0,0,0,2023-04-04T18:24:49Z,12biago,t3
+95,Python,Python 2 to 3 work around,"This is an issue someone I know mentioned they need to look into that’s just bugging me/got me curious for some reason.
+
+A server won’t currently run Python 2 but there’s a program that using Python 2 libraries.
+
+If you alias Python=python3
+Or use system wide python-is-python3 then it would fail on syntax differences 
+
+Is there anything that could act as an intermediate and alias say a reference to part of a python 2 library to the equivalent in python 3 like from 
+from stringio import stringio 
+To 
+from io import stringio 
+
+Or is the only solution to get it running python 2 via Docker or something?",0.67,4,0,4,2023-04-04T18:17:28Z,12bi3jx,t3
+96,Python,Python's del: Remove References From Scopes and Containers – Real Python,,0.64,4,0,4,2023-04-04T18:14:48Z,12bi11n,t3
+97,Python,👉 New Awesome Polars release! 🚀 What's new in #Polars? Let's find out!,,0.67,13,0,13,2023-04-04T14:44:41Z,12bdh3v,t3
+98,Python,Pandas 2.0.0,,0.62,3,0,3,2023-04-04T13:23:43Z,12bc9qg,t3
+99,Python,"Easy python module for understanding. recently I have been learning the Oops concepts in python, but I don't feel satisfied in applying those to actual scenarios. can any one please suggest any already developed python module so that I can see the actual Oops concepts involved while development.",I'm sorry for using a short term for object oriented programming.,0.79,7,0,7,2023-04-04T13:04:46Z,12bbzpe,t3
